@@ -1,0 +1,585 @@
+[
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "summary": "A comedic science fiction adventure following Arthur Dent after Earth is destroyed.",
+    "tags": ["sci-fi", "comedy", "space", "arthur dent", "earth destroyed", "adventure"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "summary": "Elizabeth Bennet navigates love, class, and misunderstandings with the proud Mr. Darcy.",
+    "tags": ["romance", "regency", "manners", "society", "marriage", "class"]
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "summary": "A dystopian tale where Winston Smith resists a totalitarian regime that rewrites truth.",
+    "tags": ["dystopia", "totalitarian", "surveillance", "rebellion", "big brother", "oppression"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "summary": "Through Scout Finch's eyes, the novel explores racial injustice and moral growth in the American South.",
+    "tags": ["racism", "justice", "coming-of-age", "south", "courtroom", "morality"]
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "summary": "Bilbo Baggins joins dwarves on a quest to reclaim their homeland from a dragon.",
+    "tags": ["fantasy", "dragon", "dwarves", "quest", "adventure", "bilbo"]
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "summary": "Nick Carraway tells of the enigmatic millionaire Jay Gatsby and his tragic dream.",
+    "tags": ["wealth", "american dream", "fortune", "jazz age", "romance", "tragedy"]
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "summary": "Captain Ahab obsessively hunts the white whale, Moby Dick.",
+    "tags": ["sea", "whale", "revenge", "obsession", "ship", "adventure"]
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "summary": "An epic of Russian families during the Napoleonic Wars, blending history and fiction.",
+    "tags": ["russia", "napoleonic wars", "history", "family saga", "epic", "war"]
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "summary": "Raskolnikov struggles with guilt and morality after committing murder.",
+    "tags": ["murder", "guilt", "morality", "poverty", "psychological", "russia"]
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "summary": "An orphaned governess falls in love with the brooding Mr. Rochester.",
+    "tags": ["romance", "gothic", "governess", "independence", "mystery", "love"]
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "summary": "A futuristic society engineered for stability hides deep human unhappiness.",
+    "tags": ["dystopia", "future", "society", "technology", "control", "unhappiness"]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "summary": "In a world where books are burned, fireman Montag questions conformity.",
+    "tags": ["dystopia", "censorship", "books", "rebellion", "fireman", "freedom"]
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "summary": "A tragic tale of love and revenge between Catherine and Heathcliff.",
+    "tags": ["romance", "revenge", "tragedy", "heathcliff", "catherine", "gothic"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "summary": "Holden Caulfield wanders New York, disillusioned with adulthood.",
+    "tags": ["coming-of-age", "alienation", "identity", "teenager", "new york", "disillusionment"]
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "summary": "Boys stranded on an island descend into savagery.",
+    "tags": ["island", "survival", "savagery", "boys", "civilization", "chaos"]
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "summary": "Anna’s affair with Count Vronsky leads to tragedy in Russian high society.",
+    "tags": ["romance", "tragedy", "russia", "high society", "affair", "family"]
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "summary": "Odysseus faces mythical challenges on his long journey home.",
+    "tags": ["epic", "mythology", "odysseus", "journey", "greece", "adventure"]
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "summary": "Epic tale of the Trojan War, focusing on Achilles’ rage.",
+    "tags": ["epic", "mythology", "trojan war", "achilles", "greece", "battle"]
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "summary": "Dante journeys through Hell, Purgatory, and Paradise.",
+    "tags": ["epic", "poetry", "afterlife", "hell", "purgatory", "paradise", "allegory"]
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "summary": "Prince Hamlet seeks revenge for his father’s murder.",
+    "tags": ["tragedy", "revenge", "denmark", "ghost", "madness", "betrayal"]
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "summary": "Ambition and prophecy drive Macbeth to murder and madness.",
+    "tags": ["tragedy", "ambition", "prophecy", "murder", "madness", "witches", "scotland"]
+  },
+  {
+    "title": "Othello",
+    "author": "William Shakespeare",
+    "summary": "Othello’s love is poisoned by jealousy and manipulation.",
+    "tags": ["tragedy", "jealousy", "love", "betrayal", "manipulation", "race"]
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "summary": "A comedy of love, magic, and mistaken identities in a fairy-filled forest.",
+    "tags": ["comedy", "love", "magic", "fairies", "forest", "mistaken identity"]
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "summary": "Pip’s journey from poverty to wealth explores ambition and loyalty.",
+    "tags": ["coming-of-age", "poverty", "wealth", "ambition", "loyalty", "victorian england"]
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "summary": "David grows up facing hardship, love, and self-discovery.",
+    "tags": ["coming-of-age", "victorian england", "hardship", "love", "self-discovery"]
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "summary": "An orphan struggles to survive in the grim underworld of London.",
+    "tags": ["orphan", "poverty", "london", "crime", "victorian england", "survival"]
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "summary": "Love and sacrifice during the French Revolution.",
+    "tags": ["french revolution", "sacrifice", "love", "historical", "paris", "london"]
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "summary": "Jean Valjean seeks redemption while pursued by Inspector Javert.",
+    "tags": ["redemption", "justice", "poverty", "paris", "french revolution aftermath", "pursuit"]
+  },
+  {
+    "title": "The Hunchback of Notre-Dame",
+    "author": "Victor Hugo",
+    "summary": "Quasimodo loves the beautiful Esmeralda in medieval Paris.",
+    "tags": ["gothic", "medieval paris", "quasimodo", "esmeralda", "cathedral", "love", "tragedy"]
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "summary": "A man tilts at windmills, imagining himself a knight.",
+    "tags": ["satire", "knight", "tilting at windmills", "spain", "adventure", "madness"]
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "summary": "Jonathan Harker confronts the mysterious Count Dracula in Transylvania.",
+    "tags": ["gothic", "vampire", "horror", "transylvania", "dracula", "supernatural"]
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "summary": "Victor Frankenstein creates a monster with tragic consequences.",
+    "tags": ["gothic", "science", "creation", "monster", "tragedy", "horror"]
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "summary": "A man remains young while his portrait ages with corruption.",
+    "tags": ["gothic", "vanity", "portrait", "youth", "corruption", "supernatural"]
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "summary": "Three brothers grapple with faith, doubt, and morality.",
+    "tags": ["russia", "faith", "doubt", "morality", "family", "philosophy"]
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "summary": "Meursault faces trial after an indifferent act of violence.",
+    "tags": ["existentialism", "alienation", "trial", "violence", "absurdism", "algeria"]
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "summary": "Josef K. is arrested and prosecuted by an inaccessible authority.",
+    "tags": ["bureaucracy", "justice", "trial", "absurdism", "authority", "dystopia"]
+  },
+  {
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "summary": "Gregor Samsa wakes up as a giant insect.",
+    "tags": ["absurdism", "transformation", "alienation", "family", "insect", "isolation"]
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "summary": "The Buendía family saga unfolds in the magical town of Macondo.",
+    "tags": ["magical realism", "family saga", "macondo", "colombia", "time", "destiny"]
+  },
+  {
+    "title": "Love in the Time of Cholera",
+    "author": "Gabriel García Márquez",
+    "summary": "Florentino Ariza waits decades to be with his true love, Fermina.",
+    "tags": ["magical realism", "love", "waiting", "time", "colombia", "romance"]
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "summary": "A shepherd follows his dream to find treasure in Egypt.",
+    "tags": ["fable", "philosophy", "dreams", "treasure", "egypt", "journey"]
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "summary": "An aging fisherman battles a giant marlin in the Gulf Stream.",
+    "tags": ["fisherman", "sea", "struggle", "marlin", "cuba", "survival"]
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "summary": "An American fights with guerrillas during the Spanish Civil War.",
+    "tags": ["spanish civil war", "guerrillas", "love", "tragedy", "sacrifice", "war"]
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "summary": "A love story set against World War I.",
+    "tags": ["world war i", "love", "tragedy", "soldier", "nurse", "war romance"]
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "summary": "Billy Pilgrim becomes 'unstuck in time' after the bombing of Dresden.",
+    "tags": ["satire", "war", "time travel", "dresden", "absurdism", "sci-fi"]
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "summary": "A satirical take on the absurdities of war bureaucracy.",
+    "tags": ["satire", "war", "bureaucracy", "absurdism", "air force", "survival"]
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "summary": "The decline of the Compson family told through multiple perspectives.",
+    "tags": ["southern gothic", "family", "decay", "multiple perspectives", "time", "memory"]
+  },
+  {
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "summary": "The Bundren family journeys to bury their matriarch.",
+    "tags": ["southern gothic", "family", "journey", "death", "poverty", "tragedy"]
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "summary": "A former slave is haunted by her past and the ghost of her child.",
+    "tags": ["slavery", "ghost", "haunting", "trauma", "family", "african american"]
+  },
+  {
+    "title": "Song of Solomon",
+    "author": "Toni Morrison",
+    "summary": "Milkman Dead searches for his identity and family history.",
+    "tags": ["african american", "identity", "family", "heritage", "search", "coming-of-age"]
+  },
+   {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "summary": "A dystopian society subjugates women under strict theocratic rule.",
+    "tags": ["dystopia", "theocracy", "women", "oppression", "gilead", "control"]
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "summary": "A father and son struggle to survive in a post-apocalyptic world.",
+    "tags": ["post-apocalyptic", "survival", "father-son", "journey", "desolation"]
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "summary": "The lives of a blind French girl and a German soldier collide in WWII.",
+    "tags": ["wwii", "france", "germany", "blindness", "occupation", "war"]
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "summary": "A young girl steals books in Nazi Germany, narrated by Death.",
+    "tags": ["wwii", "nazi germany", "books", "death", "childhood", "resistance"]
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "summary": "A boy survives a shipwreck and shares a lifeboat with a tiger.",
+    "tags": ["survival", "shipwreck", "tiger", "ocean", "faith", "adventure"]
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "summary": "Two Afghan boys are torn apart by betrayal and war.",
+    "tags": ["afghanistan", "friendship", "betrayal", "war", "redemption"]
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "summary": "Two Afghan women form a bond under oppressive rule.",
+    "tags": ["afghanistan", "women", "oppression", "friendship", "family", "resilience"]
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "summary": "A marriage unravels when Amy disappears and suspicion falls on her husband.",
+    "tags": ["thriller", "marriage", "mystery", "deception", "crime", "suspense"]
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "summary": "An alcoholic woman witnesses something shocking from a train window.",
+    "tags": ["thriller", "mystery", "train", "alcoholism", "obsession", "crime"]
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "summary": "Katniss Everdeen fights for survival in a televised death match.",
+    "tags": ["dystopia", "survival", "rebellion", "katniss", "panem", "competition"]
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "summary": "Katniss becomes a symbol of rebellion in Panem.",
+    "tags": ["dystopia", "rebellion", "panem", "katniss", "survival", "revolution"]
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "summary": "The revolution against the Capitol reaches its climax.",
+    "tags": ["dystopia", "rebellion", "revolution", "capitol", "katniss", "war"]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "summary": "A boy discovers he is a wizard and attends Hogwarts School.",
+    "tags": ["fantasy", "harry potter", "hogwarts", "magic", "wizard", "friendship"]
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "summary": "Harry faces a monster hidden within Hogwarts.",
+    "tags": ["fantasy", "harry potter", "hogwarts", "monster", "mystery", "magic"]
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "summary": "Harry learns about his parents' past and Sirius Black.",
+    "tags": ["fantasy", "harry potter", "hogwarts", "sirius black", "time travel", "friendship"]
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "summary": "Harry competes in the dangerous Triwizard Tournament.",
+    "tags": ["fantasy", "harry potter", "hogwarts", "triwizard tournament", "competition", "magic"]
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "summary": "Harry battles the Ministry’s denial of Voldemort’s return.",
+    "tags": ["fantasy", "harry potter", "hogwarts", "ministry of magic", "voldemort", "rebellion"]
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "summary": "Harry uncovers Voldemort’s secrets through Horcruxes.",
+    "tags": ["fantasy", "harry potter", "hogwarts", "voldemort", "horcruxes", "dark magic"]
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "summary": "Harry faces Voldemort in the final battle.",
+    "tags": ["fantasy", "hogwarts", "final battle", "voldemort", "harry potter", "horcruxes", "magic", "friendship"]
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "summary": "Noble houses vie for power in the Seven Kingdoms.",
+    "tags": ["fantasy", "westeros", "politics", "houses", "iron throne", "intrigue"]
+  },
+  {
+    "title": "A Clash of Kings",
+    "author": "George R.R. Martin",
+    "summary": "Civil war divides the realm as rival kings rise.",
+    "tags": ["fantasy", "civil war", "westeros", "kings", "battle", "power struggle"]
+  },
+  {
+    "title": "A Storm of Swords",
+    "author": "George R.R. Martin",
+    "summary": "Betrayals and battles shake the Seven Kingdoms.",
+    "tags": ["fantasy", "betrayal", "battle", "westeros", "politics", "war"]
+  },
+  {
+    "title": "A Feast for Crows",
+    "author": "George R.R. Martin",
+    "summary": "The aftermath of war splinters alliances across Westeros.",
+    "tags": ["fantasy", "aftermath", "alliances", "politics", "westeros", "intrigue"]
+  },
+  {
+    "title": "A Dance with Dragons",
+    "author": "George R.R. Martin",
+    "summary": "Daenerys, Jon Snow, and Tyrion face new threats as winter looms.",
+    "tags": ["fantasy", "jon snow", "daenerys", "tyrion", "dragons", "westeros", "winter"]
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "summary": "Frodo begins a quest to destroy the One Ring.",
+    "tags": ["fantasy", "middle-earth", "frodo", "ring", "quest", "fellowship"]
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "summary": "The Fellowship is broken, and war spreads across Middle-earth.",
+    "tags": ["fantasy", "middle-earth", "aragorn", "frodo", "gollum", "war"]
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "summary": "The final battle for Middle-earth begins as Frodo nears Mordor.",
+    "tags": ["fantasy", "middle-earth", "frodo", "ring", "mordor", "battle"]
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "summary": "A collection of mythopoeic stories detailing the creation and early history of Middle-earth.",
+    "tags": ["fantasy", "mythology", "creation", "elves", "middle-earth", "legendarium"]
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "summary": "Four siblings enter a magical world ruled by an evil witch and aided by the lion Aslan.",
+    "tags": ["fantasy", "narnia", "witch", "aslan", "siblings", "magic", "allegory"]
+  },
+  {
+    "title": "The Golden Compass",
+    "author": "Philip Pullman",
+    "summary": "Lyra Belacqua embarks on a journey in a parallel world with her daemon companion.",
+    "tags": ["fantasy", "daemon", "parallel worlds", "lyra", "journey", "adventure"]
+  },
+  {
+    "title": "His Dark Materials: The Subtle Knife",
+    "author": "Philip Pullman",
+    "summary": "Lyra and Will travel between worlds to uncover cosmic secrets.",
+    "tags": ["fantasy", "parallel worlds", "knife", "lyra", "will", "cosmic secrets"]
+  },
+  {
+    "title": "His Dark Materials: The Amber Spyglass",
+    "author": "Philip Pullman",
+    "summary": "Lyra and Will face the Authority in a battle that will change all universes.",
+    "tags": ["fantasy", "authority", "parallel worlds", "lyra", "will", "battle"]
+  },
+  {
+    "title": "Percy Jackson and the Olympians: The Lightning Thief",
+    "author": "Rick Riordan",
+    "summary": "A boy discovers he is the son of Poseidon and embarks on a quest with fellow demigods.",
+    "tags": ["fantasy", "demigod", "poseidon", "quest", "greek mythology", "percy jackson"]
+  },
+  {
+    "title": "Percy Jackson and the Sea of Monsters",
+    "author": "Rick Riordan",
+    "summary": "Percy and his friends sail to retrieve the Golden Fleece to save Camp Half-Blood.",
+    "tags": ["fantasy", "greek mythology", "percy jackson", "golden fleece", "sea", "quest"]
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "summary": "Bella Swan falls in love with a vampire, Edward Cullen, in a modern gothic romance.",
+    "tags": ["romance", "vampire", "bella", "edward", "gothic", "love triangle"]
+  },
+  {
+    "title": "New Moon",
+    "author": "Stephenie Meyer",
+    "summary": "Bella copes with Edward’s departure and grows close to Jacob Black.",
+    "tags": ["romance", "vampire", "werewolf", "bella", "edward", "jacob", "love triangle"]
+  },
+  {
+    "title": "Eclipse",
+    "author": "Stephenie Meyer",
+    "summary": "Bella must choose between Edward and Jacob while facing a new threat.",
+    "tags": ["romance", "vampire", "werewolf", "bella", "edward", "jacob", "conflict"]
+  },
+  {
+    "title": "Breaking Dawn",
+    "author": "Stephenie Meyer",
+    "summary": "Bella and Edward marry, leading to a dramatic confrontation with the Volturi.",
+    "tags": ["romance", "vampire", "bella", "edward", "volturi", "marriage", "conflict"]
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "summary": "A family isolated in a haunted hotel faces terrifying supernatural forces.",
+    "tags": ["horror", "haunted hotel", "isolation", "supernatural", "madness", "family"]
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "summary": "A group of friends battle a shapeshifting evil that resurfaces every 27 years.",
+    "tags": ["horror", "pennywise", "clown", "shapeshifter", "friendship", "dairy"]
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "summary": "A famous author is held captive by an obsessed fan after a car accident.",
+    "tags": ["horror", "thriller", "fan obsession", "captivity", "author", "violence"]
+  },
+  {
+    "title": "The Stand",
+    "author": "Stephen King",
+    "summary": "A post-apocalyptic struggle between good and evil after a deadly plague.",
+    "tags": ["horror", "post-apocalyptic", "good vs evil", "plague", "survival", "epic"]
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "summary": "Ex-convict Shadow becomes entangled in a war between old gods and new.",
+    "tags": ["fantasy", "mythology", "gods", "shadow", "war", "modern america"]
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "summary": "A young girl discovers a parallel world with sinister versions of her parents.",
+    "tags": ["fantasy", "dark", "parallel world", "other mother", "childhood", "horror"]
+  },
+  {
+    "title": "Good Omens",
+    "author": "Neil Gaiman and Terry Pratchett",
+    "summary": "An angel and demon team up to prevent the apocalypse.",
+    "tags": ["fantasy", "apocalypse", "angel", "demon", "humor", "satire"]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "summary": "Symbologist Robert Langdon uncovers a conspiracy involving the Holy Grail.",
+    "tags": ["thriller", "mystery", "conspiracy", "holy grail", "symbologist", "art history"]
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "summary": "Langdon races to stop an Illuminati plot against the Vatican.",
+    "tags": ["thriller", "illuminati", "vatican", "mystery", "conspiracy", "science vs religion"]
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "summary": "A boy in post-war Barcelona discovers a forgotten book that changes his life and draws him into a mystery spanning generations.",
+    "tags": ["historical fiction", "barcelona", "books", "mystery", "post-war", "family saga"]
+  }
+
+]
