@@ -436,13 +436,11 @@ def rag_answer(
     raw = gen.generate(prompt, max_new_tokens=max_new)
 
     if identify:
-        # Force the answer to be one of the retrieved titles
-        title = _enforce_title_only(raw, retrieved)
+        # Force the answer to be the most relevant snippet’s title
+        best_title = retrieved[-1][0]["title"]  # last = highest score
         if add_citation:
-            # most relevant snippet = last in retrieved (sorted by score)
-            best_idx = len(retrieved)
-            return f"{title} [{best_idx}]"
-        return title
+            return f"{best_title} [{len(retrieved)}]"
+        return best_title
 
     # explain intent → return the model's answer as-is
     return raw
